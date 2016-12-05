@@ -4,7 +4,7 @@ import (
 	"errors"
 	"net"
 
-	"github.com/apache/thrift"
+	"github.com/apache/thrift/lib/go/thrift"
 	"github.com/cloudaice/scribe-go/facebook/scribe"
 )
 
